@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "adece0e66a7fcf58",
+    "type": "split",
+    "children": [
+      {
+        "id": "c02ad2e86244d113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cce82da5f6c2ad73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours Mongo Db.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e056798771187e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mongo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "225cd829ce056d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projet MongoDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd013d386c98a158",
+    "type": "split",
+    "children": [
+      {
+        "id": "539bc7385bde47d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3cee2aa28c6fb25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c75be3af2b489bd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07f8325d7acc2089",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ea6897e92331ff00",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3d16e3a7713e1a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e8686ec3635760",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mongo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "677ec4f12e27ff56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mongo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6670a7359bd53f5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75552098c460dfb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mongo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "e056798771187e21",
+  "lastOpenFiles": [
+    "Projet MongoDB.md",
+    "Mongo.md",
+    "Cours Mongo Db.md",
+    "Mongo Db.md"
+  ]
+}
