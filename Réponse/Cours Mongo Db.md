@@ -597,7 +597,7 @@ Test :
 }
 ```
 
-### Framework d'agregation :
+### Framework d'aggregation :
 
 ```
 db.collection.aggregate(pipeline, options)
